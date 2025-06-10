@@ -1,5 +1,5 @@
 exports.version = 1
-exports.description = 'Implements OTP 2FA authentication'
+exports.description = "Implements OTP 2FA authentication"
 exports.apiRequired = 12.1 // Btn
 exports.frontend_js = ['main.js']
 exports.repo = "damienzonly/hfs-2fa"
